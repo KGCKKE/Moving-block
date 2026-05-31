@@ -1,0 +1,2 @@
+This is a program written in python with numpy and pygameto show a moving block that rebound when it hit the boundary.
+The purpose of this program is for selflearning of pygame and some basic game logic.
